@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: RetroPie Forums
     url: https://retropie.org.uk/forums
-    about: Please ask and answer questions in the RetroPie forums first.
-  - name: GitHub Security Bug Bounty
+    about: Please ask your setup and support quetion in the RetroPie forums.
+  - name: RetroPie Documentation
     url: https://retropie.org.uk/docs
-    about: RetroPie documentation - search for existing questions/solutions/configuration here.
+    about: Search the RetroPie documentation existing questions/solutions/configuration.
