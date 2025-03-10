@@ -1,4 +1,10 @@
 name: Bug report
 description: This is not a forum or a help section, this is strictly developer oriented.
 body:
-  - type: text
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Description of the actual behavior of the bug
+    validations:
+      required: true
