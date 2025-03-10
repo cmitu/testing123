@@ -6,10 +6,11 @@ body:
 
   - type: markdown
     id: info
-    value: |
-      ## Welcome!
-      This is not a forum or a help section, this is strictly developer oriented.
-      A 2nd line is present here.
+    attributes:
+      value: |
+        ## Welcome!
+        This is not a forum or a help section, this is strictly developer oriented.
+        A 2nd line is present here.
     validations:
       required: false
 
