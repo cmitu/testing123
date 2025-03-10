@@ -1,7 +1,8 @@
 ---
 name: Open an Issue
 about: |
-    Report a bug with RetroPie-Setup scripts.    
+    Report a bug with RetroPie-Setup scripts.
+    
     DO NOT use this for general support questions or installation assistance !
 title: ''
 labels: ''
