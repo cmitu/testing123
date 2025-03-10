@@ -1,5 +1,7 @@
 name: Bug report
-description: This is not a forum or a help section, this is strictly developer oriented.
+description: |
+  This is not a forum or a help section, this is strictly developer oriented.
+  A 2nd line is present here.
 body:
   - type: textarea
     id: description
