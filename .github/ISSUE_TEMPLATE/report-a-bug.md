@@ -1,12 +1,13 @@
 ---
-name: Report a Bug
-about: Report a bug with RetroPie-Setup
+name: Open an Issue
+about: Report a bug with RetroPie-Setup scripts.
 title: ''
 labels: ''
 assignees: ''
 
 ---
+For support questions or feature requests, see please use the RetroPie Forums before opening an issue:
+https://retropie.org.uk/forums
 
-This should be about a bug,
+Please remove this text when opening an issue.
 
-For support question, see xyz. Remove this text when submitting an issue.
