@@ -8,8 +8,8 @@ body:
     attributes:
       value: |
         ## Reporting a bug
-        **DO NOT** use this issue for general support questions or installation assistance,
-        use the [RetroPie forums](https://retropie.org.uk/forum)
+        **DO NOT** use this issue for general support questions, installation assistance, feature requests or emulator support.
+        The **[RetroPie forums](https://retropie.org.uk/forum)** should be used first.
     validations:
       required: false
 
@@ -17,6 +17,5 @@ body:
     id: description
     attributes:
       label: Description
-      description: Description of the actual behavior of the bug
     validations:
       required: true
