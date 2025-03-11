@@ -1,16 +1,15 @@
 name: Bug report
 description: |
  Report a bug with RetroPie-Setup scripts.
- **DO NOT** use this for general support questions or installation assistance
 body:
 
   - type: markdown
     id: info
     attributes:
       value: |
-        ## Welcome!
-        This is not a forum or a help section, this is strictly developer oriented.
-        A 2nd line is present here.
+        ## Reporting a bug
+        **DO NOT** use this issue for general support questions or installation assistance,
+        use the [RetroPie forums](https://retropie.org.uk/forum)
     validations:
       required: false
 
