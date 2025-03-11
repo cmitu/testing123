@@ -1,13 +1,13 @@
-name: Bug report
+name: Issue
 description: |
- Report a bug with RetroPie-Setup scripts.
+ Report a bug with RetroPie-Setup scripts
 body:
 
   - type: markdown
     id: info
     attributes:
       value: |
-        ## Reporting a bug
+        ## Information
         **DO NOT** use this issue for general support questions, installation assistance, feature requests or emulator support.
         The **[RetroPie forums](https://retropie.org.uk/forum)** should be used first.
     validations:
