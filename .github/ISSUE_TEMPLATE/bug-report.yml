@@ -1,7 +1,7 @@
 name: Bug report
 description: |
-  This is not a forum or a help section, this is strictly developer oriented.
-  A 2nd line is present here.
+ Report a bug with RetroPie-Setup scripts.
+ **DO NOT** use this for general support questions or installation assistance
 body:
 
   - type: markdown
