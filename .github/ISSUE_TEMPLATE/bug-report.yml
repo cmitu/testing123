@@ -16,6 +16,6 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Report of the bug
+      label: Describe the bug
     validations:
       required: true
