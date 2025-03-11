@@ -7,7 +7,7 @@ body:
     id: info
     attributes:
       value: |
-        ## Information
+        ### Note
         **DO NOT** use this issue for general support questions, installation assistance, feature requests or emulator support.
         The **[RetroPie forums](https://retropie.org.uk/forum)** should be used first.
     validations:
